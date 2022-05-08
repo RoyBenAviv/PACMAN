@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: pacmanFont;
-  src: url(fonts/pacman-font.ttf);
+  src: url('../fonts/pacman-font.ttf');
 }
 
 body {
